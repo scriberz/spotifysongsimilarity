@@ -1,0 +1,15 @@
+{
+    "name": "spotify-song-similarity",
+    "version": "1.0.0",
+    "main": "dist/bundle.js",
+    "scripts": {
+      "build": "tsc",
+      "start": "parcel public/index.html"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.0.0",
+      "parcel": "^2.0.0"
+    }
+  }
+  
